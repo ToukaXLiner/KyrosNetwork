@@ -1,2 +1,2 @@
-# KyrosNetwork
-The neural network that automatically detects the ends of the anime openings and goes to them.
+# Status
+It won't come out anytime soon. I'm studying neural networks.
